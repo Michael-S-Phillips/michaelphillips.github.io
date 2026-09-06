@@ -21,7 +21,7 @@
       "planet": "mercury",
       "topic": "remote_sensing",
       "pub_type": "conference",
-      "citations": 0,
+      "citations": 1,
       "excerpt": ""
     },
     {
@@ -981,7 +981,7 @@
       "planet": "mars",
       "topic": "ai_ml",
       "pub_type": "journal",
-      "citations": 3,
+      "citations": 0,
       "excerpt": ""
     },
     {
